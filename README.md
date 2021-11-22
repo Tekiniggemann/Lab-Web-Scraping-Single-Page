@@ -1,7 +1,6 @@
 # Lab-Web-Scraping-Single-Page
 Web Scraping
-logo_ironhack_blue 7
-Lab | Web Scraping Single Page
+
 Business goal:
 Check the case_study_gnod.md file.
 
